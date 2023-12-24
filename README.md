@@ -1,5 +1,5 @@
  <h1 dir="rtl"> מטלה להגשה אלגוריתמים רום חי חממה</h1>
-[לינק לגיטהאב](https://github.com/romhayh/algo-1-task/tree/main)
+https://github.com/romhayh/algo-1-task/tree/main
 
 <h2 dir="rtl"> טבלאות זמני ריצה</h2>
 
